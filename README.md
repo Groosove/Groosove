@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+[![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 <!--
 **Groosove/Groosove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
