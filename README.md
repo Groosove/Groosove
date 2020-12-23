@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-[![Groosove's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Groosove's github stats](https://github-readme-stats.vercel.app/api?username=groosove)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Groosove/Groosove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
