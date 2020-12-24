@@ -1,4 +1,6 @@
-### Hi there 👋
+### Всем привет 👋
+
+Учусь в школе 21 в Казани от Сбера
 
 [![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
