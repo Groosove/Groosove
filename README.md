@@ -4,7 +4,7 @@
 - Я работаю над школьным проектом: ft_containers и WebServ
 - Я изучаю язык Swift
 
-[![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Groosove/Groosove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
