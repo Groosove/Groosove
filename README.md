@@ -1,7 +1,7 @@
 ### Всем привет 👋
 
 Учусь в казанском камусе школы 21.
-- Я работаю над школьным проектом: ft_containers и WebServ
+- Я работаю над школьным проектом: ft_transcendence
 - Я изучаю язык Swift
 
 [![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
