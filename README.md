@@ -1,10 +1,6 @@
 ### Всем привет 👋
 
-Учусь в казанском камусе школы 21. Работаю iOS-разработчиком.
-
-[![flavon's 42 stats](https://badge42.herokuapp.com/api/stats/flavon?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Groosove&layout=compact)
+iOS-developer.
 <!--
 **Groosove/Groosove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
